@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../dockerfiles"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
